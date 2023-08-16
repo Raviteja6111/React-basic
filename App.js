@@ -1,16 +1,10 @@
-/**
- * <div id="parent">
- *  <div id="child">
- *     <h1>Hello h1</h1>
- *  <div>
- * </div>
- */
+import React from "react";
+import ReactDOM  from "react-dom";
 
 const h1tag = React.createElement("div",{ id : "parent"},
 React.createElement("div",{ id : "child"}),
-React.createElement("h1",{ id : "some"}, "Hello all, i am from react js")
+React.createElement("h1",{ id : "some"}, "Hello all , i am from react js")
 );
-
 
 
 console.log(h1tag);
