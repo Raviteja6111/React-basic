@@ -21,3 +21,10 @@ npm run build
 - Hosting on HTTPS
 - difrent biudels like Dev and PROD
 
+# 22 ways od export and import
+1-Default way
+2-Named way
+
+# Hooks or methods.
+Hookes is a normal JS mthod was developed by owners
+1 - Use
